@@ -1,6 +1,6 @@
 Name: python-doxyqml
 Version: 0.5.1
-Release: 1
+Release: 2
 Source0: https://files.pythonhosted.org/packages/source/d/doxyqml/doxyqml-%{version}.tar.gz
 Summary: Doxygen filter for documenting QML classes
 URL: https://pypi.org/project/doxyqml/
